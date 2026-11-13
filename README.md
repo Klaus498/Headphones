@@ -1,6 +1,6 @@
 ## Repository Structure
 
-Note: ###STL File Preview
+Note: STL File Preview
 You can preview the 3D models directly on GitHub by clicking on any `.STL` file, without downloading it.
 
 
