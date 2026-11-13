@@ -3,6 +3,7 @@
 Note: STL File Preview
 You can preview the 3D models directly on GitHub by clicking on any `.STL` file, without downloading it.
 
+Video Name: SOLIDWORKS Design Premium 2026 SP5.2 - [Assembly] 2026-11-13 03-42-38.mp4
 
 The repository is organized into the following folders and files:
 
