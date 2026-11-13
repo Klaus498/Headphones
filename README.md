@@ -61,6 +61,9 @@ Headphone-3D-Design/
 │       └── Right Stick.STL
 │
 ├── Drawing Sheet
+├── README.md
+├── Reference 1.jpeg
+├── Reference 1.jpeg
 │
 └── Headphone Assembly Video
 ```
