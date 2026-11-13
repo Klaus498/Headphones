@@ -1,5 +1,9 @@
 ## Repository Structure
 
+Note: ###STL File Preview
+You can preview the 3D models directly on GitHub by clicking on any `.STL` file, without downloading it.
+
+
 The repository is organized into the following folders and files:
 
 ```text
@@ -59,6 +63,3 @@ Headphone-3D-Design/
 │
 └── Headphone Assembly Video
 ```
-
-### STL File Preview
-You can preview the 3D models directly on GitHub by clicking on any `.STL` file, without downloading it.
